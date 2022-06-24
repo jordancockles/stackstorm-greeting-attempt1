@@ -7,5 +7,5 @@ trigger:
   type: hello_st2.event1
 action:
   ref: hello_st2.greet
-  paramters:
+  parameters:
     greeting: Yo
